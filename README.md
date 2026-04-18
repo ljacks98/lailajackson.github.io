@@ -1,5 +1,5 @@
 # lailajackson.github.io
-# Laila Jackson
+# Laila Michele Jackson
 
 Machine Learning, Cybersecurity, and Full-Stack Developer
 
